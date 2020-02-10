@@ -1,0 +1,31 @@
+* {
+	margin:		0;
+	padding:	0;
+}
+.small {
+	font-size:	20px;
+}
+.large {
+	font-size:	100px;
+}
+#bar {
+	background-color:	yellow;
+	display:		inline-block;
+	height:			400px;
+	width:			200px;
+}
+#test_toggle{
+	background-color:	blue;
+	display:		inline-block;
+	height:			300px;
+	width:			300px;
+	margin-left:		20px;
+}
+.example {
+	background-color:	red;
+	width:			400px;
+	min-height:		50px;
+}
+.example p{
+	background-color:	gray;
+}
