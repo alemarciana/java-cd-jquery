@@ -1,6 +1,7 @@
 $(document).ready(function(){
 	$(".image").click(function(){
 		$(this).addClass("invisible");
+		alert("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
 	});
 	$(".reset").click(function(){
 		$(".image").removeClass("invisible");
